@@ -1,0 +1,13 @@
+{
+  "app_name": "Brawl Stars Guide",
+  "package": "com.hamza.brawlstarsguide",
+  "effective_date": "2026-10-09",
+  "policy_version": "2.0",
+  "developer_name": "HAMZA AKKAR",
+  "third_party_processors": [
+    "UnityAds"
+  ],
+  "publication_status": "not_published",
+  "privacy_policy_url": null,
+  "data_subject_rights_url": null
+}
