@@ -1,7 +1,7 @@
 # Privacy Policy for test12
 
 Package: com.hamza.test12
-Effective date: 2026-10-25
+Effective date: 2026-10-26
 Policy version: 2.0
 
 ## Developer / Data Controller
@@ -10,27 +10,27 @@ HAMZA AKKAR. Privacy contact: hamzaakkar2222@gmail.com.
 
 ## About this app
 
-test12 is an independent photo memory and tile puzzle game. Each mode has 20 progressively harder levels. Bundled pictures are used for matching pairs and rebuilding complete photos by swapping pieces. It does not connect to other games or award items in other games. Pictured people, clubs and organizations do not endorse this app.
+test12 is an independent guide, tips, quiz and utility companion about Roblox. It is not affiliated with, endorsed by, or sponsored by the respective rights holders of Roblox. Topic trademarks belong to their owners.
 
 ## Accounts and app information
 
-The memory game does not require an account, sign-in or payment. Its game code does not request your name, contact list, photos, microphone, camera or precise GPS location. Bundled images are app assets, not images collected from your device. External websites have their own accounts, terms and privacy practices.
+The app itself does not require an account, sign-in, or payment. Guide and practice tools do not connect to or modify the underlying game. Third-party websites may have their own accounts and terms.
 
 ## On-device information
 
-Memory and puzzle unlocked levels and best move counts are saved separately in Android app preferences. Memory bonus stars are saved on the same device. Current card selections, shuffled puzzle pieces and round state remain in memory. Game progress is not sent to a developer server. OS backups or transfers may include preferences according to device settings. Clearing app data resets local progress.
+Practice progress, scores and cached remote settings are stored on your device. They are not uploaded by the guide tools. Clearing app storage or uninstalling may remove these records.
 
 ## Advertising and Unity Ads
 
-When adsactive enables advertising, Unity Ads initializes automatically and may show banners and interstitials at natural transitions or after completed levels. When both adsactive and previewactive are enabled, an optional completed rewarded ad grants a 3-second board or photo preview. Skipped, failed or unavailable ads grant no preview. Memory completion can offer an optional rewarded bonus star. Normal progression never requires ads. The app requests non-personalized ads. Unity may process IP address, device and advertising identifiers, device details and ad interactions for delivery, measurement, security and fraud prevention. IP address can indicate approximate location. See https://unity.com/legal/game-player-and-app-user-privacy-policy
+The app may display Unity Ads when remote advertising is enabled. Unity may process IP addresses, device and advertising identifiers, operating-system information, ad interactions and approximate location inferred from an IP address to deliver ads, measure performance, prevent fraud and secure its services. The app does not request GPS location for its practice tools. Advertising data processing can occur even with contextual ads. Third-party processing is governed by Unity’s privacy policy: https://unity.com/legal/game-player-and-app-user-privacy-policy
 
 ## Remote settings
 
-Public GitHub settings are checked at startup, on resume and about every 60 seconds while the app is open. GitHub receives technical connection information. adsactive controls Unity advertising; cpaactive independently controls sponsored Get gifts buttons; previewactive controls the optional rewarded-preview button in both games and also requires adsactive. Invalid or unavailable settings disable these features until refreshed. Requests contain no scores or selected pieces.
+The app requests public ad/sponsored-link settings hosted on GitHub. Network providers receive connection information such as IP address and request details. Settings determine availability; a sponsored destination opens only when you tap it.
 
 ## External and sponsored links
 
-Get Gifts opens a sponsored external offer only when you tap it and when sponsored links are enabled. Tracking redirects and attribution parameters may be used. A destination may receive connection information, use cookies and request information, registration or payment under its own privacy policy. Review the destination and its terms before sharing anything. Offers do not guarantee prizes. Opening offers is not required to play or unlock levels. In-app trophies and bonus stars are separate from external offers. Photo-source and privacy links also open external websites only when tapped.
+Links open external websites or applications. Those services receive network information and apply their own privacy policies. Optional Get Gifts/sponsored links may use tracking redirects, cookies and attribution parameters, and a destination may ask for information or payment. You do not need to open these links to use the guide. Review the destination before providing information.
 
 ## Third-party services and policy hosting
 
@@ -38,7 +38,7 @@ Unity (when advertising is configured), GitHub for remote settings and this poli
 
 ## Retention and international processing
 
-Local game preferences remain until cleared or removed, subject to operating-system backup and restore settings. Third-party providers determine retention for data they control, including advertising, security and legal records, and may process information internationally. See their policies for retention and privacy-request procedures. The developer cannot promise deletion of information controlled by another provider.
+Third parties set retention periods for their processing, including advertising, security and legal obligations, and may process information internationally. See their policies for retention and privacy-request procedures. We do not promise deletion of information controlled by another provider.
 
 ## Children and privacy
 
@@ -46,19 +46,19 @@ The app has no age-verification screen. An age rating does not establish a user�
 
 ## Your choices
 
-Both games and all 40 levels can be played offline without signing in. Skip optional rewarded previews and avoid sponsored external offers. The developer controls ad, gift and preview settings remotely. This version has no in-app user ad-disable switch. Device and provider advertising/privacy controls may provide additional choices.
+You may decline optional rewarded ads and avoid external links. Advertising initializes only after you choose Accept and remote settings enable ads. Reject keeps guide content usable without advertising. You can use your device’s advertising/privacy controls. Closing the app stops new app activity. No personalized-ad consent is inferred from merely using the app or allowing ads. These choices do not guarantee that an advertising SDK processes no technical data.
 
 ## Withdrawal of consent
 
-This version does not present an in-app Accept/Reject consent choice or an in-app withdrawal switch. Where a provider relies on your consent, use that provider's available privacy controls or contact it to withdraw consent. You can contact the developer about app-related processing, use device privacy controls, avoid optional ads and external offers, or stop using the online features. These actions do not automatically delete data already controlled by third parties.
+Use Privacy Choices / Consent inside the app to Reject or withdraw your choice. Withdrawal stops future ad initialization, loading and showing. An SDK session already initialized may continue internal processing until the app closes; restart to end that session. An already visible ad may finish. Withdrawal does not delete information controlled by third parties; use their rights procedures.
 
 ## Data sharing and processing methods
 
-The game code does not upload your memory-game progress or player selections to the developer. Unity Ads can send technical information to Unity and its partners when enabled. GitHub receives requests for remote settings and this policy page. External destinations receive information when you open their links. OS backups and transfers follow your device settings. Third-party policies describe their recipients and processing purposes.
+Optional advertising sends technical information to Unity and its advertising partners for delivery, measurement, security and fraud prevention. External sites receive connection information when opened. The app does not upload guide answers through these links. Third-party policies describe their independent recipients and purposes.
 
 ## Cookies, device identifiers and approximate location
 
-Unity advertising and external sites may use device identifiers or cookies as described in their privacy policies. Approximate location may be inferred from an IP address. The memory game does not request GPS location or identify your real-world position.
+Advertising SDKs and external sites may use device identifiers or cookies where applicable. Approximate location may be inferred from IP addresses. The guide does not request GPS access, and its visual practice radar does not locate people.
 
 ## International processing
 
@@ -78,4 +78,4 @@ This policy may be updated when app features, providers or privacy practices cha
 
 ## Contact
 
-Developer / Data Controller: HAMZA AKKAR. For app-related privacy questions or rights requests, email hamzaakkar2222@gmail.com. If you contact us, we receive your email address and the information you choose to send, and use them to respond and handle your request. Do not send passwords or unnecessary sensitive information. The pictured people and organizations are not the publisher of this independent app.
+For app-related privacy questions or rights requests, email hamzaakkar2222@gmail.com. The topic owner is not the publisher of this independent companion.
