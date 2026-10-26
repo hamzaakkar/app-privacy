@@ -46,7 +46,7 @@ The app has no age-verification screen. An age rating does not establish a user�
 
 ## Your choices
 
-You may decline optional rewarded ads and avoid external links. Advertising initializes only after you choose Accept and remote settings enable ads. Reject keeps guide content usable without advertising. You can use your device’s advertising/privacy controls. Closing the app stops new app activity. No personalized-ad consent is inferred from merely using the app or allowing ads. These choices do not guarantee that an advertising SDK processes no technical data.
+You may decline optional rewarded ads and avoid external links. The app opens directly without a startup advertising-choice screen. Contextual advertising may initialize automatically when remote settings enable ads and no existing local opt-out blocks it. No personalized-ad consent or age-classification signal is inferred from an unknown preference. Privacy Settings lets you disable ads or withdraw an existing local preference while keeping guide content usable. You can use your device’s advertising/privacy controls. Closing the app stops new app activity. No personalized-ad consent is inferred from merely using the app or allowing ads. These choices do not guarantee that an advertising SDK processes no technical data.
 
 ## Withdrawal of consent
 
